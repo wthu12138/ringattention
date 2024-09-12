@@ -3,7 +3,7 @@ name = "ringattention"
 version = "0.1.2"
 description = "RingAttention for Transformers with Arbitrarily Large Context."
 license = {text = "Apache-2.0"}
-requires-python = ">=3.10"
+requires-python = ">=3.8"
 dependencies = [
     "numpy",
     "jax>=0.4.29",
